@@ -10,3 +10,4 @@ function textAppear(){
     isText = false;
   }
 }
+ 

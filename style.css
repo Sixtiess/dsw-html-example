@@ -4,10 +4,29 @@ html, body{
 }
 
 h1{
-	color: blue;
+	color: black;
 }
 
-img{
+#logo{
 	width: 200px;
 	height: 200px;
+	border: 2px dashed black;
+	border-radius: 25px;
+}
+
+#logo:hover {
+	border-color: blue;
+}
+
+#restaurantSection {
+	border: 2px solid tan;
+	border-radius: 35px;
+	margin-right:500px;
+	margin-left:500px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }

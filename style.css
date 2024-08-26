@@ -7,54 +7,17 @@ h1{
 	color: black;
 }
 
-#logo{
+.logo{
 	width: 200px;
 	height: 200px;
 	border: 2px dashed black;
 	border-radius: 25px;
 }
 
-#logo:hover {
+.logo:hover {
 	border-color: blue;
 }
-
-#restaurantSection {
-	border: 2px solid tan;
-	border-radius: 35px;
-	margin-right:500px;
-	margin-left:500px;
-}
-
-#logo2{
-	width: 200px;
-	height: 200px;
-	border: 2px dashed black;
-	border-radius: 25px;
-}
-
-#logo2:hover {
-	border-color: blue;
-}
-
-#restaurantSection2 {
-	border: 2px solid tan;
-	border-radius: 35px;
-	margin-right:500px;
-	margin-left:500px;
-}
-
-#logo3{
-	width: 200px;
-	height: 200px;
-	border: 2px dashed black;
-	border-radius: 25px;
-}
-
-#logo3:hover {
-	border-color: blue;
-}
-
-#restaurantSection3 {
+.restaurantSection {
 	border: 2px solid tan;
 	border-radius: 35px;
 	margin-right:500px;

@@ -24,6 +24,12 @@ h1{
 	margin-left:500px;
 }
 
+#mask1{
+	-webkit-mask-image: url(w3logo.png);
+	mask-image: url(w3logo.png);
+	mask-repeat: no-repeat;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
